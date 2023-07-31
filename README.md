@@ -4,7 +4,7 @@ Python script to transliterate Burmese text into the International Phonetic Alph
 # Burmese Script to Modified IPA
 #	by Brian Oleniacz
 #	
-#	This program takes a text in Burmese Script as input and outputs two texts
+#	This program takes a text in Burmese Script as input and outputs two texts:
 #	1. A text in a modified version of the International Phonetic Alphabet
 #	2. A syllable by syllable parallel output where each Burmese Syllable is 
 #	   followed by its modified IPA equivalent.
