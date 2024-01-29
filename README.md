@@ -13,15 +13,18 @@ by Brian Oleniacz
 	Modified IPA
 	The alphabet used here has two main departures from standard IPA:
 	-the nasalization sign ŋ̃ which is nonstandard and
-	-tone marks including	 ̰ for creaky tone (standard IPA)
-       					 ˋ for a high falling tone which is combined 
-	with ':' (the standard marker for long high tone in Burmese 
-							 ́  for low rising tone
+	-tone marks, including	
+ 		̰  for creaky tone (standard IPA)
+       				
+		ˋ for a high falling tone, which is combined with ':' 
+  		(':' is the standard marker for long high tone in Burmese) 
+							
+		́  for low rising tone
 
  	ŋ̃ stands here for ɰ̃ which looks like a w to me and always makes me round
 	my lips. Technically the sound here described is a partially closed throat.
 	I used the ~ from Portuguese to represent the nasalizing effect of only
-	partially closing my throat	and ŋ to get me to close my throat instead of 
+	partially closing my throat and ŋ to get me to close my throat instead of 
 	rounding my lips.
 
 	Feel free to modify this code to get it to work better. 
@@ -33,7 +36,7 @@ by Brian Oleniacz
 	The main logic of the algorithm is to find each syllable in the Burmese
 	text using the rules of Burmese spelling. This is a lot harder than it sounds.
 	Many Burmese syllables are not pronounced the way they are spelled. This
-	Program will not help with such pronunciations.
+	program will not help with such pronunciations.
 	I am not a native speaker of Burmese. If you find errors let me know and I 
 	will fix them.
 	Thank you for using my program.
